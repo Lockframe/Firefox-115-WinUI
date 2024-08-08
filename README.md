@@ -1,7 +1,7 @@
 # Firefox 115 WinUI
 An edited version of an old release of [bmFtZQ](https://github.com/bmFtZQ)'s [Edge-frfx](https://github.com/bmFtZQ/Edge-FrFox) theme with some [tweaks by MrOtherGuy](https://github.com/MrOtherGuy/firefox-csshacks) to match Microsoft's WinUI design guidelines.
 
-## Note: This theme is currently only compatible with Firefox 115 ESR due to the removal of support for `-moz-win-borderless-glass` and `-moz-win-glass`.
+⚠️ This theme is currently only compatible with Firefox 115 ESR due to the removal of support for `-moz-win-borderless-glass` and `-moz-win-glass`. ⚠️
 
 <!-- Use <img> element to set a maximum width. -->
 <img src="screenshot.png" alt="Firefox 115 WinUI thumbnail screenshot." width="754">
